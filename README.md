@@ -1,10 +1,10 @@
 # Brenda María Rodríguez Ruiz
 
-**Bachiller en Economía** · Factoring, riesgo de crédito y valorización de empresas
+**Bachiller en Economía con especialización en finanzas corporativas y mercado de capitales** ·
 
-Trabajo en una fintech de factoring, donde estructuro operaciones de financiamiento de facturas, negocio condiciones con entidades financieras y evalúo el perfil de riesgo de los proveedores que solicitan financiamiento. Llevo más de USD 22 MM negociados en operaciones.
+Experiencia en estructuración de operaciones de factoring, evaluación de riesgo de proveedores e intermediación de financiamiento corporativo, con más de USD 22 MM negociados.
 
-Antes de eso hice valorización de empresas por DCF, Dividendos Descontados e Ingreso Residual. Me interesan el riesgo de crédito, el mercado de capitales y el financiamiento de la pequeña empresa en el Perú.
+Antes de eso hice valorización de empresas por DCF, Dividendos Descontados e Ingreso Residual. Manejo de Excel, Python y Power BI. Orientada al análisis de inversiones, finanzas corporativas y banca de inversión.
 
 ---
 
