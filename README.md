@@ -2,9 +2,7 @@
 
 **Bachiller en Economía con especialización en finanzas corporativas y mercado de capitales**
 
-Experiencia en estructuración de operaciones de factoring, evaluación de riesgo de proveedores e intermediación de financiamiento corporativo, con más de USD 22 MM negociados. Manejo de valorización de empresas (DCF, DDM e ingreso residual), análisis de estados financieros y modelamiento financiero. Manejo de Excel, Python y Power BI. 
-
-Orientada al análisis de inversiones, finanzas corporativas y banca de inversión.
+Experiencia en estructuración de operaciones de factoring, evaluación de riesgo de proveedores e intermediación de financiamiento corporativo, con más de USD 22 MM negociados. Manejo de valorización de empresas (DCF, DDM e ingreso residual), análisis de estados financieros y modelamiento financiero. Manejo de Excel, Python y Power BI. Orientada al análisis de inversiones, finanzas corporativas y banca de inversión.
 ---
 
 ## Proyectos
