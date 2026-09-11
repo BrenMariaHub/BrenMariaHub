@@ -29,23 +29,3 @@ Diagnóstico de rentabilidad sobre una base de operaciones de venta: dónde se g
 **Técnicas** — Excel (avanzado) · Power BI · Python · R · Stata · SQL Server · Bloomberg
 
 ---
-
-## Formación
-
-**Bachiller en Economía** — Universidad Nacional Agraria de la Selva
-Quinto superior · Beca Permanencia, Pronabec
-
-| Programa | Institución | Resultado |
-|---|---|---|
-| XXVII PEMV | Superintendencia del Mercado de Valores | 354 horas · 17/20 · admisión 2.3% |
-| Programa Talento | COFIDE | 240 horas · 19/20 · Top 10 · admisión 4% |
-| Curso de Invierno en Finanzas Avanzadas | Banco Central de Reserva del Perú | Top 15 · admisión 5.8% |
-| Especialización en Finanzas Corporativas | PUCP | En curso |
-
----
-
-## Contacto
-
-[LinkedIn](https://linkedin.com/in/brenda-rodriguez-ruiz/) · brendamariabmrr1@gmail.com
-
-📍 Perú
