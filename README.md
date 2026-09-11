@@ -42,8 +42,6 @@ Quinto superior · Beca Permanencia, Pronabec
 | Curso de Invierno en Finanzas Avanzadas | Banco Central de Reserva del Perú | Top 15 · admisión 5.8% |
 | Especialización en Finanzas Corporativas | PUCP | En curso |
 
-Finalista del **Aspire Leaders Program** (Harvard Business School, 2025) entre 6,175 participantes.
-
 ---
 
 ## Contacto
