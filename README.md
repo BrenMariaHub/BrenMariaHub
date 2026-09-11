@@ -1,6 +1,6 @@
 # Brenda María Rodríguez Ruiz
 
-**Bachiller en Economía con especialización en finanzas corporativas y mercado de capitales** ·
+**Bachiller en Economía con especialización en finanzas corporativas y mercado de capitales**
 
 Experiencia en estructuración de operaciones de factoring, evaluación de riesgo de proveedores e intermediación de financiamiento corporativo, con más de USD 22 MM negociados.
 
