@@ -2,8 +2,8 @@
 
 **Análisis financiero · Finanzas corporativas · Mercados de capitales · Factoring**
 
-📍 Tingo María, Perú
-💼 Asistente de Estructuración de Factoring y Soporte al Proveedor en CobraYa
+📍 Tingo María, Perú<br>
+💼 Asistente de Estructuración de Factoring y Soporte al Proveedor en CobraYa<br>
 🎓 Bachiller en Economía | Finanzas Corporativas y Mercados de Capitales
 
 Bachiller en Economía con especialización en análisis financiero, finanzas corporativas, valoración, mercado de capitales. Cuento con experiencia en estructuración de operaciones de factoring, evaluación de riesgo de proveedores, intermediación de financiamiento corporativo, con más de USD 22 MM negociados, valorización de empresas (DCF, DDM e ingreso residual), análisis de estados financieros y modelamiento financiero. Manejo de Excel, Python y Power BI.
