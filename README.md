@@ -1,8 +1,14 @@
 # Brenda María Rodríguez Ruiz
 
-**Bachiller en Economía con especialización en finanzas corporativas y mercado de capitales**
+**Análisis financiero · Finanzas corporativas · Mercados de capitales · Factoring**
 
-Experiencia en estructuración de operaciones de factoring, evaluación de riesgo de proveedores e intermediación de financiamiento corporativo, con más de USD 22 MM negociados. Manejo de valorización de empresas (DCF, DDM e ingreso residual), análisis de estados financieros y modelamiento financiero. Manejo de Excel, Python y Power BI. Orientada al análisis de inversiones, finanzas corporativas y banca de inversión.
+📍 Tingo María, Perú
+💼 Asistente de Estructuración de Factoring y Soporte al Proveedor en CobraYa
+🎓 Bachiller en Economía | Finanzas Corporativas y Mercados de Capitales
+
+Bachiller en Economía con especialización en análisis financiero, finanzas corporativas, valoración, mercado de capitales. Cuento con experiencia en estructuración de operaciones de factoring, evaluación de riesgo de proveedores, intermediación de financiamiento corporativo, con más de USD 22 MM negociados, valorización de empresas (DCF, DDM e ingreso residual), análisis de estados financieros y modelamiento financiero. Manejo de Excel, Python y Power BI.
+
+Actualmente trabajo en la Fintech CobraYa , liderando la intermediación financiera y la estructuración de operaciones de factoring: búsqueda, cotización y negociación de tasas con entidades financieras, coordinando el flujo operativo entre proveedores, financieras y pagadores, evaluo el perfil financiero y el riesgo crediticio de los proveedores solicitantes de financiamiento y diseño KPIs, dashboards y reportes de monitoreo para el seguimiento de las operaciones. Paralelamente sigo desarrollando proyectos aplicados en valoración, inversiones y finanzas cuantitativas.
 
 ---
 
@@ -29,3 +35,17 @@ Diagnóstico de rentabilidad sobre una base de operaciones de venta: dónde se g
 **Técnicas** — Excel (avanzado) · Power BI · Python · R · Stata · SQL Server · Bloomberg
 
 ---
+
+## Formación
+
+**Bachiller en Economía** — Universidad Nacional Agraria de la Selva
+Quinto superior · Beca Permanencia, Pronabec
+
+| Programa | Institución | Resultado |
+|---|---|---|
+| XXVII PEMV | Superintendencia del Mercado de Valores | 354 horas · 17/20 · admisión 2.3% |
+| Programa Talento | COFIDE | 240 horas · 19/20 · Top 10 · admisión 4% |
+| Curso de Invierno en Finanzas Avanzadas | Banco Central de Reserva del Perú | Top 15 · admisión 5.8% |
+| Especialización en Finanzas Corporativas | PUCP | En curso |
+
+Finalista del **Aspire Leaders Program** (Harvard Business School, 2025) entre 6,175 participantes.
