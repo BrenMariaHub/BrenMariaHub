@@ -8,7 +8,7 @@
 
 Bachiller en Economía con especialización en análisis financiero, finanzas corporativas, valoración, mercado de capitales. Cuento con experiencia en estructuración de operaciones de factoring, evaluación de riesgo de proveedores, intermediación de financiamiento corporativo, con más de USD 22 MM negociados, valorización de empresas (DCF, DDM e ingreso residual), análisis de estados financieros y modelamiento financiero. Manejo de Excel, Python y Power BI.
 
-Actualmente trabajo en la Fintech CobraYa , liderando la intermediación financiera y la estructuración de operaciones de factoring: búsqueda, cotización y negociación de tasas con entidades financieras, coordinando el flujo operativo entre proveedores, financieras y pagadores, evaluo el perfil financiero y el riesgo crediticio de los proveedores solicitantes de financiamiento y diseño KPIs, dashboards y reportes de monitoreo para el seguimiento de las operaciones. Paralelamente sigo desarrollando proyectos aplicados en valoración, inversiones y finanzas cuantitativas.
+Trabajo en la fintech CobraYa, donde lidero la intermediación financiera y la estructuración de operaciones de factoring: búsqueda, cotización y negociación de tasas con entidades financieras, y coordinación del flujo operativo entre proveedores, financieras y pagadores. Evalúo el perfil financiero y el riesgo crediticio de los proveedores solicitantes, y diseño KPIs, dashboards y reportes de monitoreo para el seguimiento de las operaciones. En paralelo, desarrollo proyectos aplicados en valorización, inversiones y finanzas cuantitativas.
 
 ---
 
